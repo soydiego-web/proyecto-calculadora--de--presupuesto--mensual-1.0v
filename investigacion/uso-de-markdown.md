@@ -58,12 +58,14 @@ documentar sin complejidad y mantener los archivos versionables.
 
 ### 4. Enlaces
 
-``` markdown[Visitar GitHub](https://github.com)
+``` markdown
+[Visitar GitHub](https://github.com)
 ```
 
 ### 5. Imágenes
 
-``` markdown![Ejemplo de imagen](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+``` markdown
+![Ejemplo de imagen](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 ```
 
 ------------------------------------------------------------------------
