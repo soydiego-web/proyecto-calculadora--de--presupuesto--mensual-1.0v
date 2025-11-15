@@ -1,6 +1,6 @@
 # Documentación: Uso de Markdown en Proyectos de Software
 
-## 📌 ¿Qué es Markdown?
+##  ¿Qué es Markdown?
 
 **Markdown** es un lenguaje de marcado ligero que permite escribir
 documentos de forma sencilla utilizando una sintaxis fácil de leer y
@@ -18,7 +18,7 @@ documentar sin complejidad y mantener los archivos versionables.
 
 ------------------------------------------------------------------------
 
-## 🧪 Ejemplo práctico de uso de Markdown
+##  Ejemplo práctico de uso de Markdown
 
 ### 1. Encabezados
 
@@ -58,19 +58,17 @@ documentar sin complejidad y mantener los archivos versionables.
 
 ### 4. Enlaces
 
-``` markdown
-[Visitar GitHub](https://github.com)
+``` markdown[Visitar GitHub](https://github.com)
 ```
 
 ### 5. Imágenes
 
-``` markdown
-![Ejemplo de imagen](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+``` markdown![Ejemplo de imagen](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 ```
 
 ------------------------------------------------------------------------
 
-## 🚀 Ventajas de utilizar Markdown en combinación con GitHub
+##  Ventajas de utilizar Markdown en combinación con GitHub
 
 -   **Control de versiones:** Cada modificación queda registrada
     históricamente.
@@ -89,7 +87,7 @@ documentar sin complejidad y mantener los archivos versionables.
 
 ------------------------------------------------------------------------
 
-## ✅ Conclusión
+##  Conclusión
 
 Markdown es una herramienta esencial en proyectos de software gracias a
 su simplicidad, compatibilidad con GitHub y versatilidad para documentar
